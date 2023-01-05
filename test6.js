@@ -8,5 +8,5 @@
 let num= [1,5,2,7,3];
 let order = num.sort();
 console.log(order);
-let names= ["Aron","Zewdu","Hana","Beti","Abe","Meron"] 
+let names= ["Aron","Zewdu","Hana","Beti","Abe","Meron","Dawit"] 
 console.log(names.sort().reverse());
